@@ -3,7 +3,7 @@
 Este repositório apresenta uma implementação prática de **DevSecOps**, utilizando **Python** e **GitHub Actions** para automatizar a validação de camadas de segurança em endpoints de API.
 
 ## 🚀 O Projeto
-O objetivo é garantir que as APIs (especialmente em ambientes de integração como Fluig e Datasul) sigam as melhores práticas de segurança, verificando a presença de headers HTTP essenciais que protegem contra ataques comuns, como Clickjacking e XSS.
+O objetivo é garantir que as APIs (especialmente em ambientes de integração como Fluig e Datasul) sigam as melhores práticas de segurança, verificando a presença de headers HTTP essenciais que protegem contra ataques comuns.
 
 [Image of DevSecOps lifecycle diagram]
 
