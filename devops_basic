@@ -1,0 +1,5 @@
+# 🛡️  Projeto simples de DevSecOps
+Este projeto automatiza a verificação de segurança de um site usando Python e GitHub Actions.
+
+### Como funciona:
+Sempre que eu faço um upload (push) aqui, o GitHub cria uma máquina virtual e testa se o site alvo é seguro.
