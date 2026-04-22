@@ -5,8 +5,6 @@ Este repositório apresenta uma implementação prática de **DevSecOps**, utili
 ## 🚀 O Projeto
 O objetivo é garantir que as APIs (especialmente em ambientes de integração como Fluig e Datasul) sigam as melhores práticas de segurança, verificando a presença de headers HTTP essenciais que protegem contra ataques comuns.
 
-[Image of DevSecOps lifecycle diagram]
-
 ## 🛠️ Tecnologias Utilizadas
 * **Linguagem:** Python 3.x
 * **CI/CD:** GitHub Actions (Automação de Pipeline)
