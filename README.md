@@ -21,4 +21,4 @@ Toda vez que um novo código é enviado para este repositório (`git push`):
 No dia a dia de um **Analista de Sistemas**, garantir que as comunicações entre sistemas externos e plataformas internas sejam seguras é fundamental. Este projeto demonstra como integrar essa preocupação diretamente no ciclo de desenvolvimento (Shift-Left Security).
 
 ---
-✨ Desenvolvido por **Murilo Cardoso** | Estudante de ADS e Desenvolvedor.
+✨ Desenvolvido por **Murilo Cardoso** | ADS e Desenvolvedor.
